@@ -1,4 +1,4 @@
-꒰ᐢ. .ᐢ꒱₊˚⊹ . . . nice to meet you 💫
+꒰ᐢ. .ᐢ꒱₊˚⊹ . . . nice to meet you 💫!
 > Hi, I’m @meadowvinyls. I'm 19 years of age with an affinity for writing, photography, and this time... coding! ★
 
 * pronouns: she/her; filipino; Capricorn; 1st year uni student
