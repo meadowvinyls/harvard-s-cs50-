@@ -1,0 +1,36 @@
+#include <cs50.h>
+#include <stdio.h>
+
+void print_row(int height);
+
+int main(void)
+{
+// Prompt user the height of the pyramid
+  int height, row, space, bricks;
+  do
+  {
+    height = get_int("Enter height of the pyramid: ");
+  }
+  while (height < 1 || height > 8);
+
+  // Ready the function
+  print_row(height);
+}
+
+// Make the function for the row
+void print_row(int height)
+{
+  // Loop for the rows, bricks, and spaces
+  for (int row = 0; row < height; row++)
+  {
+    for (int space = height - row; space > 1; space--)
+    {
+      printf(" ");
+    }
+    for (int bricks = 0; bricks <= row; bricks++)
+    {
+      printf("#");
+    }
+    printf("\n");
+  }
+}
